@@ -4,7 +4,7 @@ This project provides a practical solution to everyday problems by allowing user
 This project aims to manage and present data efficiently, leveraging the concepts and skills learned throughout the database systems course, providing practical experience in web development and database integration.
 
 
-# Creators:
+# Contributors:
 1. LAMISA MAHMUD (ID : 23241122)
 2. MD. ABRAR HASAN (ID : 23241115)
 3. NAVID NAHIYAN (ID : 23231125)
